@@ -1,5 +1,5 @@
 import React from 'react'
-//test
+//tests
 export default (props) => (
   <tr>
     <td className="user--first-name">{props.firstName}</td>
